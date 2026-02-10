@@ -209,8 +209,7 @@ $$
 		\end{aligned}
 		$$
 代码，见python文件
-优势：
-	
+
 
 全文参考
 [小冬瓜笔记-flash-attention前情概要](https://zhuanlan.zhihu.com/p/5078640012)
